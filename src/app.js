@@ -1,1 +1,1 @@
-console.log("git ekle23")
+console.log("git ekle235")
